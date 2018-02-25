@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DAYANE_1202154316_M3</string>
+    <array name="listwater">
+        <item>@drawable/aqua</item>
+        <item>@drawable/ades</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/club</item>
+        <item>@drawable/equil</item>
+        <item>@drawable/evian</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/nestle</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/vit</item>
+    </array>
+</resources>
+
+
+
